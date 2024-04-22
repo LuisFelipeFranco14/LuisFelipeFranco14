@@ -1,6 +1,6 @@
 # Olá! Eu sou Luis Felipe de Oliveira Franco 
 
-- 🧑‍🏭Hoje trabalho com Delphi | C# | Python
+- 🧑‍🏭Hoje trabalho com Delphi | Python
 - 📘Estudando Python | C#
 
 <div>
