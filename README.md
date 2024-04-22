@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/LuisFelipeFranco14">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisFelipeFranco14&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFranco14&theme=gruvbox"/>
+  <! -- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFelipeFranco14&theme=gruvbox"/> 
 </div>
 
 <div style="display: inline_block"><br>
